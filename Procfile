@@ -1,1 +1,1 @@
-worker: node node.js
+worker: node boy.js
