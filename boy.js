@@ -1148,7 +1148,7 @@ async function addFriend(id, message) {
 // ======= [ DEV I BOY ] ======== //
 boy.on("message", message => {
   if (!message.guild) return;
-  if (message.content === prefix + "voice") {
+  if (message.content === prefix + "wara") {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
