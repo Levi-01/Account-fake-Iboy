@@ -1600,7 +1600,7 @@ boy20.on("ready", () => { console.log( `Online In Servers` ); let statuses = [
 /// Token lera dane ("token")
 ///ITTZ
 
-boy.login("");
+boy.login("ODEyNDI5MjA2MjM1MjUwNzY5.YDAp3A.rzw-mHuPwHWHkC3f7DYbyN6fELs");
 boy2.login("");
 boy3.login("");
 boy4.login("");          
