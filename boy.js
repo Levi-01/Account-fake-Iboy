@@ -1610,7 +1610,7 @@ boy7.login("");
 boy8.login("");
 boy9.login("");
 boy10.login("");
-boy11.login("")
+boy11.login("");
 boy12.login("");
 boy13.login("");
 boy14.login("");
