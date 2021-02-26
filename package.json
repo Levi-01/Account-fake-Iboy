@@ -12,11 +12,12 @@
     "node": ">=14.0.0"
   },
   "dependencies": {
+  "@discordjs/opus": "^0.3.3",
     "discord.js": "^11.5.1",
     "fs": "^0.0.2",
     "ms": "^2.1.2",
     "express": "^4.17.1",
-    "node-cmd": "^3.0.0",
+    "node-cmd": "^4.0.0",
     "canvas": "^2.6.1",
     "request": "^2.88.2"
   },
