@@ -1,1 +1,1 @@
-[Staff](https://discord.gg/879Zeax6)
+[ITTZ STAFF](https://discord.gg/879Zeax6)
