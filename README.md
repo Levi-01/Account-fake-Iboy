@@ -1,1 +1,1 @@
-# Acc-Iboy
+[![Support Server](https://discord.gg/879Zeax6)
