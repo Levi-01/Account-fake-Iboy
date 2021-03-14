@@ -685,18 +685,18 @@ boy5.on("message", message => {
     message.delete();
   }
 });
-//devboy
+
 boy6.on("message", message => {
   if (message.author.bot) return;
   if (!message.content.startsWith(config.prefix)) return;
 
   let command = message.content.split(" ")[0];
   command = command.slice(config.prefix.length);
-  //
+  
   let args = message.content.split(" ").slice(1);
 
   if (command == config.groupnm + "6") {
-    //
+    
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -707,7 +707,7 @@ boy6.on("message", message => {
   }
 });
 
-//
+
 boy7.on("message", message => {
   if (message.author.bot) return;
   if (!message.content.startsWith(config.prefix)) return;
@@ -751,7 +751,7 @@ boy8.on("message", message => {
 boy9.on("message", message => {
   if (message.author.bot) return; //
   if (!message.content.startsWith(config.prefix)) return;
-  //
+  
   let command = message.content.split(" ")[0];
   command = command.slice(config.prefix.length);
 
@@ -906,7 +906,6 @@ boy16.on("message", message => {
     message.delete();
   }
 });
-//devboy
 
 boy17.on("message", message => {
   if (message.author.bot) return;
@@ -970,7 +969,6 @@ boy19.on("message", message => {
   }
 });
 
-//devboy
 boy20.on("message", message => {
   if (message.author.bot) return;
   if (!message.content.startsWith(config.prefix)) return; //devzangana
