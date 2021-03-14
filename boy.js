@@ -1592,6 +1592,1489 @@ boy20.on("message", message => {
   }
 });
 
+boy21.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+
+boy22.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+
+boy23.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy23.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy24.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy25.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy26.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy27.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy28.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+    }
+ });
+boy29.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy30.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy31.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy32.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return; // cod by  "zangana"
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy33.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy34.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy35.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy36.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy37.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy38.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy39.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy40.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+
+boy41.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy41.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy42.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy43.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy44.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy45.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy46.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+    }
+ });
+boy47.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy48.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy49.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy50.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return; // cod by  "zangana"
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy51.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy52.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy53.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy54.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy55.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy56.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy57.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy58.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+
+boy59.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy60.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy61.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy62.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy63.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy64.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy65.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+    }
+ });
+boy66.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy67.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy68.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy69.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return; // cod by  "zangana"
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy70.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy71.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy72.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy73.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy74.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy75.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy76.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy77.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+
+boy78.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy79.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy80.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy81.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy82.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy83.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy84.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+    }
+ });
+boy85.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy86.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy87.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy88.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return; // cod by  "zangana"
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy89.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy90.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy91.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy92.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy93.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy94.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy95.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy96.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+
+boy97.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy98.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy99.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+boy100.on("message", message => {
+  if (!message.guild) return;
+  if (message.content === prefix + "voice") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    if (message.member.voiceChannel) {
+      message.member.voiceChannel
+        .join()
+        .then(connection => {
+          message.reply("**WORK**!");
+        })
+        .catch(console.log);
+    } else {
+      message.reply(
+        "`Please Join Channel First`"
+      );
+    }
+  }
+});
+
 // 
 
 
@@ -1678,8 +3161,249 @@ boy19.on("ready", () => { console.log( `Online In Servers` ); let statuses = [
 boy20.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
 `بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy20.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
 
+boy21.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy2.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy22.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy3.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy23.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy4.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy24.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy5.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy25.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`,`ITTZ` ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy6.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy26.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy7.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy27.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy8.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy28.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy9.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy29.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy10.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy30.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy11.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy31.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy12.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy32.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy13.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy33.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+ `بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy14.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy34.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy15.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy35.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy16.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy36.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy17.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy37.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy18.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy38.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy19.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
 
 
+boy39.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy20.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy40.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy2.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy41.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy3.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy42.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy4.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy43.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy5.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy44.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`,`ITTZ` ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy6.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy45.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy7.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy46.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy8.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy47.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy9.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy48.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy10.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy49.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy11.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy50.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy12.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy51.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy13.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy52.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+ `بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy14.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy53.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy15.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy54.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy16.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy55.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy17.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy56.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy18.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy57.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy19.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+
+boy58.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy20.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy59.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy2.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy60.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy3.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy61.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy4.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy62.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy5.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy63.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`,`ITTZ` ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy6.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy64.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy7.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy65.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy8.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy66.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy9.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy67.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy10.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy68.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy11.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy69.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy12.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy70.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy13.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy71.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+ `بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy14.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy72.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy15.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy73.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy16.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy74.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy17.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy75.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy18.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy76.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy19.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+
+boy77.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy20.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy78.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy2.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy79.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy3.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy80.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy4.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy81.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy5.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy82.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`,`ITTZ` ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy6.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy83.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy7.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy84.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy8.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy85.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy9.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy86.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy10.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy87.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy11.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy88.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy12.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy89.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy13.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy90.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+ `بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy14.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy91.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy15.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy92.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy16.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy93.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy17.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy94.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy18.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy95.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy19.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+
+boy96.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy20.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy97.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy20.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy98.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy20.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy99.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy20.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
+
+boy100.on("ready", () => { console.log( `Online In Servers` ); let statuses = [ 
+`بــاپیرە گــەورەی بــۆتەکـــان`, `ITTZ`, ]; setInterval(function() { let STREAMING = statuses[Math.floor(Math.random() * statuses.length)]; boy20.user.setActivity(STREAMING, { type: "playing", url: "https://www.twitch.tv/ninja" }); }, 2000);});
 
 
 /// Token lera dane ("token")
