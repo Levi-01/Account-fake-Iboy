@@ -982,7 +982,7 @@ boy20.on("ready", () => {
 });
 
 boy21.on("ready", () => {
-  console.log(`[BOT] ${boy2.user.username} Ready!`);
+  console.log(`[BOT] ${boy21.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -991,7 +991,7 @@ boy21.on("ready", () => {
 });
 
 boy22.on("ready", () => {
-  console.log(`[BOT] ${boy3.user.username} Ready!`);
+  console.log(`[BOT] ${boy22.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1000,7 +1000,7 @@ boy22.on("ready", () => {
 });
 
 boy23.on("ready", () => {
-  console.log(`[BOT] ${boy4.user.username} Ready!`);
+  console.log(`[BOT] ${boy23.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1009,7 +1009,7 @@ boy23.on("ready", () => {
 });
 
 boy24.on("ready", () => {
-  console.log(`[BOT] ${boy5.user.username} Ready!`);
+  console.log(`[BOT] ${boy24.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1018,7 +1018,7 @@ boy24.on("ready", () => {
 });
 
 boy25.on("ready", () => {
-  console.log(`[BOT] ${boy6.user.username} Ready!`);
+  console.log(`[BOT] ${boy25.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1027,7 +1027,7 @@ boy25.on("ready", () => {
 });
 
 boy26.on("ready", () => {
-  console.log(`[BOT] ${boy7.user.username} Ready!`);
+  console.log(`[BOT] ${boy26.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1036,7 +1036,7 @@ boy26.on("ready", () => {
 });
 
 boy27.on("ready", () => {
-  console.log(`[BOT] ${boy8.user.username} Ready!`);
+  console.log(`[BOT] ${boy27.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1045,7 +1045,7 @@ boy27.on("ready", () => {
 });
 
 boy28.on("ready", () => {
-  console.log(`[BOT] ${boy9.user.username} Ready!`);
+  console.log(`[BOT] ${boy28.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1054,7 +1054,7 @@ boy28.on("ready", () => {
 });
 
 boy29.on("ready", () => {
-  console.log(`[BOT] ${boy10.user.username} Ready!`);
+  console.log(`[BOT] ${boy29.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1063,7 +1063,7 @@ boy29.on("ready", () => {
 });
 
 boy30.on("ready", () => {
-  console.log(`[BOT] ${boy11.user.username} Ready!`);
+  console.log(`[BOT] ${boy30.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1072,7 +1072,7 @@ boy30.on("ready", () => {
 });
 
 boy31.on("ready", () => {
-  console.log(`[BOT] ${boy12.user.username} Ready!`);
+  console.log(`[BOT] ${boy31.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1081,7 +1081,7 @@ boy31.on("ready", () => {
 });
 
 boy32.on("ready", () => {
-  console.log(`[BOT] ${boy13.user.username} Ready!`);
+  console.log(`[BOT] ${boy32.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1090,7 +1090,7 @@ boy32.on("ready", () => {
 });
 
 boy33.on("ready", () => {
-  console.log(`[BOT] ${boy14.user.username} Ready!`);
+  console.log(`[BOT] ${boy33.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1099,7 +1099,7 @@ boy33.on("ready", () => {
 });
 
 boy34.on("ready", () => {
-  console.log(`[BOT] ${boy15.user.username} Ready!`);
+  console.log(`[BOT] ${boy34.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1108,7 +1108,7 @@ boy34.on("ready", () => {
 });
 
 boy35.on("ready", () => {
-  console.log(`[BOT] ${boy16.user.username} Ready!`);
+  console.log(`[BOT] ${boy35.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1117,7 +1117,7 @@ boy35.on("ready", () => {
 });
 
 boy36.on("ready", () => {
-  console.log(`[BOT] ${boy17.user.username} Ready!`);
+  console.log(`[BOT] ${boy36.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1126,7 +1126,7 @@ boy36.on("ready", () => {
 });
 
 boy37.on("ready", () => {
-  console.log(`[BOT] ${boy18.user.username} Ready!`);
+  console.log(`[BOT] ${boy37.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1135,7 +1135,7 @@ boy37.on("ready", () => {
 });
 
 boy38.on("ready", () => {
-  console.log(`[BOT] ${boy19.user.username} Ready!`);
+  console.log(`[BOT] ${boy38.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1144,7 +1144,7 @@ boy38.on("ready", () => {
 });
 
 boy39.on("ready", () => {
-  console.log(`[BOT] ${boy20.user.username} Ready!`);
+  console.log(`[BOT] ${boy39.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1153,7 +1153,7 @@ boy39.on("ready", () => {
 });
 
 boy40.on("ready", () => {
-  console.log(`[BOT] ${boy2.user.username} Ready!`);
+  console.log(`[BOT] ${boy40.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1162,7 +1162,7 @@ boy40.on("ready", () => {
 });
 
 boy41.on("ready", () => {
-  console.log(`[BOT] ${boy3.user.username} Ready!`);
+  console.log(`[BOT] ${boy41.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1171,7 +1171,7 @@ boy41.on("ready", () => {
 });
 
 boy42.on("ready", () => {
-  console.log(`[BOT] ${boy4.user.username} Ready!`);
+  console.log(`[BOT] ${boy42.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1180,7 +1180,7 @@ boy42.on("ready", () => {
 });
 
 boy43.on("ready", () => {
-  console.log(`[BOT] ${boy5.user.username} Ready!`);
+  console.log(`[BOT] ${boy43.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1189,7 +1189,7 @@ boy43.on("ready", () => {
 });
 
 boy44.on("ready", () => {
-  console.log(`[BOT] ${boy6.user.username} Ready!`);
+  console.log(`[BOT] ${boy44.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1198,7 +1198,7 @@ boy44.on("ready", () => {
 });
 
 boy45.on("ready", () => {
-  console.log(`[BOT] ${boy7.user.username} Ready!`);
+  console.log(`[BOT] ${boy45.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1207,7 +1207,7 @@ boy45.on("ready", () => {
 });
 
 boy46.on("ready", () => {
-  console.log(`[BOT] ${boy8.user.username} Ready!`);
+  console.log(`[BOT] ${boy46.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1216,7 +1216,7 @@ boy46.on("ready", () => {
 });
 
 boy47.on("ready", () => {
-  console.log(`[BOT] ${boy9.user.username} Ready!`);
+  console.log(`[BOT] ${boy47.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1225,7 +1225,7 @@ boy47.on("ready", () => {
 });
 
 boy48.on("ready", () => {
-  console.log(`[BOT] ${boy10.user.username} Ready!`);
+  console.log(`[BOT] ${boy48.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1234,7 +1234,7 @@ boy48.on("ready", () => {
 });
 
 boy49.on("ready", () => {
-  console.log(`[BOT] ${boy11.user.username} Ready!`);
+  console.log(`[BOT] ${boy49.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1243,7 +1243,7 @@ boy49.on("ready", () => {
 });
 
 boy50.on("ready", () => {
-  console.log(`[BOT] ${boy12.user.username} Ready!`);
+  console.log(`[BOT] ${boy50.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1252,7 +1252,7 @@ boy50.on("ready", () => {
 });
 
 boy51.on("ready", () => {
-  console.log(`[BOT] ${boy13.user.username} Ready!`);
+  console.log(`[BOT] ${boy51.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1261,7 +1261,7 @@ boy51.on("ready", () => {
 });
 
 boy52.on("ready", () => {
-  console.log(`[BOT] ${boy14.user.username} Ready!`);
+  console.log(`[BOT] ${boy52.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1270,7 +1270,7 @@ boy52.on("ready", () => {
 });
 
 boy53.on("ready", () => {
-  console.log(`[BOT] ${boy15.user.username} Ready!`);
+  console.log(`[BOT] ${boy53.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1279,7 +1279,7 @@ boy53.on("ready", () => {
 });
 
 boy54.on("ready", () => {
-  console.log(`[BOT] ${boy16.user.username} Ready!`);
+  console.log(`[BOT] ${boy54.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1288,7 +1288,7 @@ boy54.on("ready", () => {
 });
 
 boy55.on("ready", () => {
-  console.log(`[BOT] ${boy17.user.username} Ready!`);
+  console.log(`[BOT] ${boy55.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1297,7 +1297,7 @@ boy55.on("ready", () => {
 });
 
 boy56.on("ready", () => {
-  console.log(`[BOT] ${boy18.user.username} Ready!`);
+  console.log(`[BOT] ${boy56.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1306,7 +1306,7 @@ boy56.on("ready", () => {
 });
 
 boy57.on("ready", () => {
-  console.log(`[BOT] ${boy19.user.username} Ready!`);
+  console.log(`[BOT] ${boy57.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1315,7 +1315,7 @@ boy57.on("ready", () => {
 });
 
 boy58.on("ready", () => {
-  console.log(`[BOT] ${boy20.user.username} Ready!`);
+  console.log(`[BOT] ${boy58.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1324,7 +1324,7 @@ boy58.on("ready", () => {
 });
 
 boy59.on("ready", () => {
-  console.log(`[BOT] ${boy2.user.username} Ready!`);
+  console.log(`[BOT] ${boy59.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1333,7 +1333,7 @@ boy59.on("ready", () => {
 });
 
 boy60.on("ready", () => {
-  console.log(`[BOT] ${boy3.user.username} Ready!`);
+  console.log(`[BOT] ${boy60.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1342,7 +1342,7 @@ boy60.on("ready", () => {
 });
 
 boy61.on("ready", () => {
-  console.log(`[BOT] ${boy4.user.username} Ready!`);
+  console.log(`[BOT] ${boy61.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1351,7 +1351,7 @@ boy61.on("ready", () => {
 });
 
 boy62.on("ready", () => {
-  console.log(`[BOT] ${boy5.user.username} Ready!`);
+  console.log(`[BOT] ${boy62.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1360,7 +1360,7 @@ boy62.on("ready", () => {
 });
 
 boy63.on("ready", () => {
-  console.log(`[BOT] ${boy6.user.username} Ready!`);
+  console.log(`[BOT] ${boy63.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1369,7 +1369,7 @@ boy63.on("ready", () => {
 });
 
 boy64.on("ready", () => {
-  console.log(`[BOT] ${boy7.user.username} Ready!`);
+  console.log(`[BOT] ${boy64.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1378,7 +1378,7 @@ boy64.on("ready", () => {
 });
 
 boy65.on("ready", () => {
-  console.log(`[BOT] ${boy8.user.username} Ready!`);
+  console.log(`[BOT] ${boy65.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1387,7 +1387,7 @@ boy65.on("ready", () => {
 });
 
 boy66.on("ready", () => {
-  console.log(`[BOT] ${boy9.user.username} Ready!`);
+  console.log(`[BOT] ${boy66.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1396,7 +1396,7 @@ boy66.on("ready", () => {
 });
 
 boy67.on("ready", () => {
-  console.log(`[BOT] ${boy10.user.username} Ready!`);
+  console.log(`[BOT] ${boy67.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1405,7 +1405,7 @@ boy67.on("ready", () => {
 });
 
 boy68.on("ready", () => {
-  console.log(`[BOT] ${boy11.user.username} Ready!`);
+  console.log(`[BOT] ${boy68.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1414,7 +1414,7 @@ boy68.on("ready", () => {
 });
 
 boy69.on("ready", () => {
-  console.log(`[BOT] ${boy12.user.username} Ready!`);
+  console.log(`[BOT] ${boy69.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1423,7 +1423,7 @@ boy69.on("ready", () => {
 });
 
 boy70.on("ready", () => {
-  console.log(`[BOT] ${boy13.user.username} Ready!`);
+  console.log(`[BOT] ${boy70.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1432,7 +1432,7 @@ boy70.on("ready", () => {
 });
 
 boy71.on("ready", () => {
-  console.log(`[BOT] ${boy14.user.username} Ready!`);
+  console.log(`[BOT] ${boy71.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1441,7 +1441,7 @@ boy71.on("ready", () => {
 });
 
 boy72.on("ready", () => {
-  console.log(`[BOT] ${boy15.user.username} Ready!`);
+  console.log(`[BOT] ${boy72.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1450,7 +1450,7 @@ boy72.on("ready", () => {
 });
 
 boy73.on("ready", () => {
-  console.log(`[BOT] ${boy16.user.username} Ready!`);
+  console.log(`[BOT] ${boy73.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1459,7 +1459,7 @@ boy73.on("ready", () => {
 });
 
 boy74.on("ready", () => {
-  console.log(`[BOT] ${boy17.user.username} Ready!`);
+  console.log(`[BOT] ${boy74.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1468,7 +1468,7 @@ boy74.on("ready", () => {
 });
 
 boy75.on("ready", () => {
-  console.log(`[BOT] ${boy18.user.username} Ready!`);
+  console.log(`[BOT] ${boy75.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1477,7 +1477,7 @@ boy75.on("ready", () => {
 });
 
 boy76.on("ready", () => {
-  console.log(`[BOT] ${boy19.user.username} Ready!`);
+  console.log(`[BOT] ${boy76.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1486,7 +1486,7 @@ boy76.on("ready", () => {
 });
 
 boy77.on("ready", () => {
-  console.log(`[BOT] ${boy20.user.username} Ready!`);
+  console.log(`[BOT] ${boy77.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1495,7 +1495,7 @@ boy77.on("ready", () => {
 });
 
 boy78.on("ready", () => {
-  console.log(`[BOT] ${boy2.user.username} Ready!`);
+  console.log(`[BOT] ${boy78.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1504,7 +1504,7 @@ boy78.on("ready", () => {
 });
 
 boy79.on("ready", () => {
-  console.log(`[BOT] ${boy3.user.username} Ready!`);
+  console.log(`[BOT] ${boy79.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1513,7 +1513,7 @@ boy79.on("ready", () => {
 });
 
 boy80.on("ready", () => {
-  console.log(`[BOT] ${boy4.user.username} Ready!`);
+  console.log(`[BOT] ${boy80.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1522,7 +1522,7 @@ boy80.on("ready", () => {
 });
 
 boy81.on("ready", () => {
-  console.log(`[BOT] ${boy5.user.username} Ready!`);
+  console.log(`[BOT] ${boy81.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1531,7 +1531,7 @@ boy81.on("ready", () => {
 });
 
 boy82.on("ready", () => {
-  console.log(`[BOT] ${boy6.user.username} Ready!`);
+  console.log(`[BOT] ${boy82.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1540,7 +1540,7 @@ boy82.on("ready", () => {
 });
 
 boy83.on("ready", () => {
-  console.log(`[BOT] ${boy7.user.username} Ready!`);
+  console.log(`[BOT] ${boy83.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1549,7 +1549,7 @@ boy83.on("ready", () => {
 });
 
 boy84.on("ready", () => {
-  console.log(`[BOT] ${boy8.user.username} Ready!`);
+  console.log(`[BOT] ${boy84.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1558,7 +1558,7 @@ boy84.on("ready", () => {
 });
 
 boy85.on("ready", () => {
-  console.log(`[BOT] ${boy9.user.username} Ready!`);
+  console.log(`[BOT] ${boy85.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1567,7 +1567,7 @@ boy85.on("ready", () => {
 });
 
 boy86.on("ready", () => {
-  console.log(`[BOT] ${boy10.user.username} Ready!`);
+  console.log(`[BOT] ${boy86.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1576,7 +1576,7 @@ boy86.on("ready", () => {
 });
 
 boy87.on("ready", () => {
-  console.log(`[BOT] ${boy11.user.username} Ready!`);
+  console.log(`[BOT] ${boy87.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1585,7 +1585,7 @@ boy87.on("ready", () => {
 });
 
 boy88.on("ready", () => {
-  console.log(`[BOT] ${boy12.user.username} Ready!`);
+  console.log(`[BOT] ${boy88.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1594,7 +1594,7 @@ boy88.on("ready", () => {
 });
 
 boy89.on("ready", () => {
-  console.log(`[BOT] ${boy13.user.username} Ready!`);
+  console.log(`[BOT] ${boy89.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1603,7 +1603,7 @@ boy89.on("ready", () => {
 });
 
 boy90.on("ready", () => {
-  console.log(`[BOT] ${boy14.user.username} Ready!`);
+  console.log(`[BOT] ${boy90.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1612,7 +1612,7 @@ boy90.on("ready", () => {
 });
 
 boy91.on("ready", () => {
-  console.log(`[BOT] ${boy15.user.username} Ready!`);
+  console.log(`[BOT] ${boy91.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1621,7 +1621,7 @@ boy91.on("ready", () => {
 });
 
 boy92.on("ready", () => {
-  console.log(`[BOT] ${boy16.user.username} Ready!`);
+  console.log(`[BOT] ${boy92.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1630,7 +1630,7 @@ boy92.on("ready", () => {
 });
 
 boy93.on("ready", () => {
-  console.log(`[BOT] ${boy17.user.username} Ready!`);
+  console.log(`[BOT] ${boy93.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1639,7 +1639,7 @@ boy93.on("ready", () => {
 });
 
 boy94.on("ready", () => {
-  console.log(`[BOT] ${boy18.user.username} Ready!`);
+  console.log(`[BOT] ${boy94.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1648,7 +1648,7 @@ boy94.on("ready", () => {
 });
 
 boy95.on("ready", () => {
-  console.log(`[BOT] ${boy19.user.username} Ready!`);
+  console.log(`[BOT] ${boy95.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1657,7 +1657,7 @@ boy95.on("ready", () => {
 });
 
 boy96.on("ready", () => {
-  console.log(`[BOT] ${boy20.user.username} Ready!`);
+  console.log(`[BOT] ${boy96.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1666,7 +1666,7 @@ boy96.on("ready", () => {
 });
 
 boy97.on("ready", () => {
-  console.log(`[BOT] ${boy2.user.username} Ready!`);
+  console.log(`[BOT] ${boy97.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1675,7 +1675,7 @@ boy97.on("ready", () => {
 });
 
 boy98.on("ready", () => {
-  console.log(`[BOT] ${boy3.user.username} Ready!`);
+  console.log(`[BOT] ${boy98.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1684,7 +1684,7 @@ boy98.on("ready", () => {
 });
 
 boy99.on("ready", () => {
-  console.log(`[BOT] ${boy4.user.username} Ready!`);
+  console.log(`[BOT] ${boy99.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -1693,7 +1693,7 @@ boy99.on("ready", () => {
 });
 
 boy100.on("ready", () => {
-  console.log(`[BOT] ${boy5.user.username} Ready!`);
+  console.log(`[BOT] ${boy100.user.username} Ready!`);
   iboyDEV({
     method: "POST",
     url: "https://discordapp.com/api/v6/invite/" + invitecode,
@@ -2129,7 +2129,7 @@ boy21.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "10") {
+  if (command == config.groupnm + "21") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2148,7 +2148,7 @@ boy22.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "11") {
+  if (command == config.groupnm + "22") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2168,7 +2168,7 @@ boy23.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "12") {
+  if (command == config.groupnm + "23") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2188,7 +2188,7 @@ boy24.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "13") {
+  if (command == config.groupnm + "24") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2208,7 +2208,7 @@ boy25.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "14") {
+  if (command == config.groupnm + "25") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2228,7 +2228,7 @@ boy26.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "15") {
+  if (command == config.groupnm + "26") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2248,7 +2248,7 @@ boy27.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "16") {
+  if (command == config.groupnm + "27") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2268,7 +2268,7 @@ boy28.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "17") {
+  if (command == config.groupnm + "28") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2289,7 +2289,7 @@ boy29.on("message", message => {
   let args = message.content.split(" ").slice(1);
 
   //
-  if (command == config.groupnm + "18") {
+  if (command == config.groupnm + "29") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2310,7 +2310,7 @@ boy30.on("message", message => {
 
   let args = message.content.split(" ").slice(1); //dav zangana
 
-  if (command == config.groupnm + "19") {
+  if (command == config.groupnm + "30") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2330,7 +2330,7 @@ boy31.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "20") {
+  if (command == config.groupnm + "31") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2350,7 +2350,7 @@ boy32.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "10") {
+  if (command == config.groupnm + "32") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2369,7 +2369,7 @@ boy33.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "11") {
+  if (command == config.groupnm + "33") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2389,7 +2389,7 @@ boy34.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "12") {
+  if (command == config.groupnm + "34") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2409,7 +2409,7 @@ boy35.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "13") {
+  if (command == config.groupnm + "35") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2429,7 +2429,7 @@ boy36.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "14") {
+  if (command == config.groupnm + "36") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2449,7 +2449,7 @@ boy37.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "15") {
+  if (command == config.groupnm + "37") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2469,7 +2469,7 @@ boy38.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "16") {
+  if (command == config.groupnm + "38") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2489,7 +2489,7 @@ boy39.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "17") {
+  if (command == config.groupnm + "39") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2510,7 +2510,7 @@ boy40.on("message", message => {
   let args = message.content.split(" ").slice(1);
 
   //
-  if (command == config.groupnm + "18") {
+  if (command == config.groupnm + "40") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2531,7 +2531,7 @@ boy41.on("message", message => {
 
   let args = message.content.split(" ").slice(1); //dav zangana
 
-  if (command == config.groupnm + "19") {
+  if (command == config.groupnm + "41") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2551,7 +2551,7 @@ boy42.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "20") {
+  if (command == config.groupnm + "42") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2571,7 +2571,7 @@ boy43.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "10") {
+  if (command == config.groupnm + "43") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2590,7 +2590,7 @@ boy44.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "11") {
+  if (command == config.groupnm + "44") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2610,7 +2610,7 @@ boy45.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "12") {
+  if (command == config.groupnm + "45") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2630,7 +2630,7 @@ boy46.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "13") {
+  if (command == config.groupnm + "46") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2650,7 +2650,7 @@ boy47.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "14") {
+  if (command == config.groupnm + "47") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2670,7 +2670,7 @@ boy48.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "15") {
+  if (command == config.groupnm + "48") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2690,7 +2690,7 @@ boy49.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "16") {
+  if (command == config.groupnm + "49") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2710,7 +2710,7 @@ boy50.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "17") {
+  if (command == config.groupnm + "50") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2731,7 +2731,7 @@ boy51.on("message", message => {
   let args = message.content.split(" ").slice(1);
 
   //
-  if (command == config.groupnm + "18") {
+  if (command == config.groupnm + "51") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2752,7 +2752,7 @@ boy52.on("message", message => {
 
   let args = message.content.split(" ").slice(1); //dav zangana
 
-  if (command == config.groupnm + "19") {
+  if (command == config.groupnm + "52") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2772,7 +2772,7 @@ boy53.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "20") {
+  if (command == config.groupnm + "53") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2792,7 +2792,7 @@ boy54.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "10") {
+  if (command == config.groupnm + "54") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2811,7 +2811,7 @@ boy55.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "11") {
+  if (command == config.groupnm + "55") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2831,7 +2831,7 @@ boy56.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "12") {
+  if (command == config.groupnm + "56") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2851,7 +2851,7 @@ boy57.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "13") {
+  if (command == config.groupnm + "57") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2871,7 +2871,7 @@ boy58.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "14") {
+  if (command == config.groupnm + "58") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2891,7 +2891,7 @@ boy59.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "15") {
+  if (command == config.groupnm + "59") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2911,7 +2911,7 @@ boy60.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "16") {
+  if (command == config.groupnm + "60") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2931,7 +2931,7 @@ boy61.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "17") {
+  if (command == config.groupnm + "61") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2952,7 +2952,7 @@ boy62.on("message", message => {
   let args = message.content.split(" ").slice(1);
 
   //
-  if (command == config.groupnm + "18") {
+  if (command == config.groupnm + "62") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2973,7 +2973,7 @@ boy63.on("message", message => {
 
   let args = message.content.split(" ").slice(1); //dav zangana
 
-  if (command == config.groupnm + "19") {
+  if (command == config.groupnm + "63") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -2993,7 +2993,7 @@ boy64.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "20") {
+  if (command == config.groupnm + "64") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3013,7 +3013,7 @@ boy65.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "10") {
+  if (command == config.groupnm + "65") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3032,7 +3032,7 @@ boy66.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "11") {
+  if (command == config.groupnm + "66") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3052,7 +3052,7 @@ boy67.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "12") {
+  if (command == config.groupnm + "67") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3072,7 +3072,7 @@ boy68.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "13") {
+  if (command == config.groupnm + "68") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3092,7 +3092,7 @@ boy69.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "14") {
+  if (command == config.groupnm + "69") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3112,7 +3112,7 @@ boy70.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "15") {
+  if (command == config.groupnm + "70") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3132,7 +3132,7 @@ boy71.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "16") {
+  if (command == config.groupnm + "71") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3152,7 +3152,7 @@ boy72.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "17") {
+  if (command == config.groupnm + "72") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3173,7 +3173,7 @@ boy73.on("message", message => {
   let args = message.content.split(" ").slice(1);
 
   //
-  if (command == config.groupnm + "18") {
+  if (command == config.groupnm + "73") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3193,7 +3193,7 @@ boy74.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "10") {
+  if (command == config.groupnm + "74") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3212,7 +3212,7 @@ boy75.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "11") {
+  if (command == config.groupnm + "75") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3232,7 +3232,7 @@ boy76.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "12") {
+  if (command == config.groupnm + "76") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3252,7 +3252,7 @@ boy77.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "13") {
+  if (command == config.groupnm + "77") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3272,7 +3272,7 @@ boy78.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "14") {
+  if (command == config.groupnm + "78") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3292,7 +3292,7 @@ boy79.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "15") {
+  if (command == config.groupnm + "79") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3312,7 +3312,7 @@ boy80.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "16") {
+  if (command == config.groupnm + "80") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3332,7 +3332,7 @@ boy81.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "17") {
+  if (command == config.groupnm + "81") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3353,7 +3353,7 @@ boy82.on("message", message => {
   let args = message.content.split(" ").slice(1);
 
   //
-  if (command == config.groupnm + "18") {
+  if (command == config.groupnm + "82") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3374,7 +3374,7 @@ boy83.on("message", message => {
 
   let args = message.content.split(" ").slice(1); //dav zangana
 
-  if (command == config.groupnm + "19") {
+  if (command == config.groupnm + "83") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3394,7 +3394,7 @@ boy84.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "20") {
+  if (command == config.groupnm + "84") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3415,7 +3415,7 @@ boy85.on("message", message => {
 
   let args = message.content.split(" ").slice(1); //dav zangana
 
-  if (command == config.groupnm + "19") {
+  if (command == config.groupnm + "85") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3435,7 +3435,7 @@ boy86.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "20") {
+  if (command == config.groupnm + "86") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3455,7 +3455,7 @@ boy87.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "10") {
+  if (command == config.groupnm + "87") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3474,7 +3474,7 @@ boy88.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "11") {
+  if (command == config.groupnm + "88") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3494,7 +3494,7 @@ boy89.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "12") {
+  if (command == config.groupnm + "89") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3514,7 +3514,7 @@ boy90.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "13") {
+  if (command == config.groupnm + "90") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3534,7 +3534,7 @@ boy91.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "14") {
+  if (command == config.groupnm + "91") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3554,7 +3554,7 @@ boy92.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "15") {
+  if (command == config.groupnm + "92") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3574,7 +3574,7 @@ boy93.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "16") {
+  if (command == config.groupnm + "93") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3594,7 +3594,7 @@ boy94.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "17") {
+  if (command == config.groupnm + "94") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3615,7 +3615,7 @@ boy95.on("message", message => {
   let args = message.content.split(" ").slice(1);
 
   //
-  if (command == config.groupnm + "18") {
+  if (command == config.groupnm + "95") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3636,7 +3636,7 @@ boy96.on("message", message => {
 
   let args = message.content.split(" ").slice(1); //dav zangana
 
-  if (command == config.groupnm + "19") {
+  if (command == config.groupnm + "96") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3656,7 +3656,7 @@ boy97.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "20") {
+  if (command == config.groupnm + "97") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3676,7 +3676,7 @@ boy98.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "10") {
+  if (command == config.groupnm + "98") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3695,7 +3695,7 @@ boy99.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "11") {
+  if (command == config.groupnm + "99") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
@@ -3715,7 +3715,7 @@ boy100.on("message", message => {
 
   let args = message.content.split(" ").slice(1);
 
-  if (command == config.groupnm + "12") {
+  if (command == config.groupnm + "100") {
     if (!dinfo.owner.includes(message.author.id)) return;
     let rank = message.guild
       .member(message.author)
