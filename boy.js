@@ -572,6 +572,726 @@ boy20.on("ready", () => {
   });
 });
 
+boy21.on("ready", () => {
+  console.log(`[BOT] ${boy2.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN2 }
+  });
+});
+
+boy22.on("ready", () => {
+  console.log(`[BOT] ${boy3.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN3 }
+  });
+});
+
+boy23.on("ready", () => {
+  console.log(`[BOT] ${boy4.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN4 }
+  });
+});
+
+boy24.on("ready", () => {
+  console.log(`[BOT] ${boy5.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN5 }
+  });
+});
+
+boy25.on("ready", () => {
+  console.log(`[BOT] ${boy6.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN6 }
+  });
+});
+
+boy26.on("ready", () => {
+  console.log(`[BOT] ${boy7.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN7 }
+  });
+});
+
+boy27.on("ready", () => {
+  console.log(`[BOT] ${boy8.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN8 }
+  });
+});
+
+boy28.on("ready", () => {
+  console.log(`[BOT] ${boy9.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN9 }
+  });
+});
+
+boy29.on("ready", () => {
+  console.log(`[BOT] ${boy10.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN10 }
+  });
+});
+
+boy30.on("ready", () => {
+  console.log(`[BOT] ${boy11.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN11 }
+  });
+});
+
+boy31.on("ready", () => {
+  console.log(`[BOT] ${boy12.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN12 }
+  });
+});
+
+boy32.on("ready", () => {
+  console.log(`[BOT] ${boy13.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN13 }
+  });
+});
+
+boy33.on("ready", () => {
+  console.log(`[BOT] ${boy14.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN14 }
+  });
+});
+
+boy34.on("ready", () => {
+  console.log(`[BOT] ${boy15.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN15 }
+  });
+});
+
+boy35.on("ready", () => {
+  console.log(`[BOT] ${boy16.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN16 }
+  });
+});
+
+boy36.on("ready", () => {
+  console.log(`[BOT] ${boy17.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN17 }
+  });
+});
+
+boy37.on("ready", () => {
+  console.log(`[BOT] ${boy18.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN18 }
+  });
+});
+
+boy38.on("ready", () => {
+  console.log(`[BOT] ${boy19.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN19 }
+  });
+});
+
+boy39.on("ready", () => {
+  console.log(`[BOT] ${boy20.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN20 }
+  });
+});
+
+boy40.on("ready", () => {
+  console.log(`[BOT] ${boy2.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN2 }
+  });
+});
+
+boy41.on("ready", () => {
+  console.log(`[BOT] ${boy3.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN3 }
+  });
+});
+
+boy42.on("ready", () => {
+  console.log(`[BOT] ${boy4.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN4 }
+  });
+});
+
+boy43.on("ready", () => {
+  console.log(`[BOT] ${boy5.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN5 }
+  });
+});
+
+boy44.on("ready", () => {
+  console.log(`[BOT] ${boy6.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN6 }
+  });
+});
+
+boy45.on("ready", () => {
+  console.log(`[BOT] ${boy7.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN7 }
+  });
+});
+
+boy46.on("ready", () => {
+  console.log(`[BOT] ${boy8.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN8 }
+  });
+});
+
+boy47.on("ready", () => {
+  console.log(`[BOT] ${boy9.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN9 }
+  });
+});
+
+boy48.on("ready", () => {
+  console.log(`[BOT] ${boy10.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN10 }
+  });
+});
+
+boy49.on("ready", () => {
+  console.log(`[BOT] ${boy11.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN11 }
+  });
+});
+
+boy50.on("ready", () => {
+  console.log(`[BOT] ${boy12.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN12 }
+  });
+});
+
+boy51.on("ready", () => {
+  console.log(`[BOT] ${boy13.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN13 }
+  });
+});
+
+boy52.on("ready", () => {
+  console.log(`[BOT] ${boy14.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN14 }
+  });
+});
+
+boy53.on("ready", () => {
+  console.log(`[BOT] ${boy15.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN15 }
+  });
+});
+
+boy54.on("ready", () => {
+  console.log(`[BOT] ${boy16.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN16 }
+  });
+});
+
+boy55.on("ready", () => {
+  console.log(`[BOT] ${boy17.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN17 }
+  });
+});
+
+boy56.on("ready", () => {
+  console.log(`[BOT] ${boy18.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN18 }
+  });
+});
+
+boy57.on("ready", () => {
+  console.log(`[BOT] ${boy19.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN19 }
+  });
+});
+
+boy58.on("ready", () => {
+  console.log(`[BOT] ${boy20.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN20 }
+  });
+});
+
+boy59.on("ready", () => {
+  console.log(`[BOT] ${boy2.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN2 }
+  });
+});
+
+boy60.on("ready", () => {
+  console.log(`[BOT] ${boy3.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN3 }
+  });
+});
+
+boy61.on("ready", () => {
+  console.log(`[BOT] ${boy4.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN4 }
+  });
+});
+
+boy62.on("ready", () => {
+  console.log(`[BOT] ${boy5.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN5 }
+  });
+});
+
+boy63.on("ready", () => {
+  console.log(`[BOT] ${boy6.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN6 }
+  });
+});
+
+boy64.on("ready", () => {
+  console.log(`[BOT] ${boy7.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN7 }
+  });
+});
+
+boy65.on("ready", () => {
+  console.log(`[BOT] ${boy8.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN8 }
+  });
+});
+
+boy66.on("ready", () => {
+  console.log(`[BOT] ${boy9.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN9 }
+  });
+});
+
+boy67.on("ready", () => {
+  console.log(`[BOT] ${boy10.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN10 }
+  });
+});
+
+boy68.on("ready", () => {
+  console.log(`[BOT] ${boy11.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN11 }
+  });
+});
+
+boy69.on("ready", () => {
+  console.log(`[BOT] ${boy12.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN12 }
+  });
+});
+
+boy70.on("ready", () => {
+  console.log(`[BOT] ${boy13.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN13 }
+  });
+});
+
+boy71.on("ready", () => {
+  console.log(`[BOT] ${boy14.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN14 }
+  });
+});
+
+boy72.on("ready", () => {
+  console.log(`[BOT] ${boy15.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN15 }
+  });
+});
+
+boy73.on("ready", () => {
+  console.log(`[BOT] ${boy16.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN16 }
+  });
+});
+
+boy74.on("ready", () => {
+  console.log(`[BOT] ${boy17.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN17 }
+  });
+});
+
+boy75.on("ready", () => {
+  console.log(`[BOT] ${boy18.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN18 }
+  });
+});
+
+boy76.on("ready", () => {
+  console.log(`[BOT] ${boy19.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN19 }
+  });
+});
+
+boy77.on("ready", () => {
+  console.log(`[BOT] ${boy20.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN20 }
+  });
+});
+
+boy78.on("ready", () => {
+  console.log(`[BOT] ${boy2.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN2 }
+  });
+});
+
+boy79.on("ready", () => {
+  console.log(`[BOT] ${boy3.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN3 }
+  });
+});
+
+boy80.on("ready", () => {
+  console.log(`[BOT] ${boy4.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN4 }
+  });
+});
+
+boy81.on("ready", () => {
+  console.log(`[BOT] ${boy5.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN5 }
+  });
+});
+
+boy82.on("ready", () => {
+  console.log(`[BOT] ${boy6.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN6 }
+  });
+});
+
+boy83.on("ready", () => {
+  console.log(`[BOT] ${boy7.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN7 }
+  });
+});
+
+boy84.on("ready", () => {
+  console.log(`[BOT] ${boy8.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN8 }
+  });
+});
+
+boy85.on("ready", () => {
+  console.log(`[BOT] ${boy9.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN9 }
+  });
+});
+
+boy86.on("ready", () => {
+  console.log(`[BOT] ${boy10.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN10 }
+  });
+});
+
+boy87.on("ready", () => {
+  console.log(`[BOT] ${boy11.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN11 }
+  });
+});
+
+boy88.on("ready", () => {
+  console.log(`[BOT] ${boy12.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN12 }
+  });
+});
+
+boy89.on("ready", () => {
+  console.log(`[BOT] ${boy13.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN13 }
+  });
+});
+
+boy90.on("ready", () => {
+  console.log(`[BOT] ${boy14.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN14 }
+  });
+});
+
+boy91.on("ready", () => {
+  console.log(`[BOT] ${boy15.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN15 }
+  });
+});
+
+boy92.on("ready", () => {
+  console.log(`[BOT] ${boy16.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN16 }
+  });
+});
+
+boy93.on("ready", () => {
+  console.log(`[BOT] ${boy17.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN17 }
+  });
+});
+
+boy94.on("ready", () => {
+  console.log(`[BOT] ${boy18.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN18 }
+  });
+});
+
+boy95.on("ready", () => {
+  console.log(`[BOT] ${boy19.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN19 }
+  });
+});
+
+boy96.on("ready", () => {
+  console.log(`[BOT] ${boy20.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN20 }
+  });
+});
+
+boy97.on("ready", () => {
+  console.log(`[BOT] ${boy2.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN2 }
+  });
+});
+
+boy98.on("ready", () => {
+  console.log(`[BOT] ${boy3.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN3 }
+  });
+});
+
+boy99.on("ready", () => {
+  console.log(`[BOT] ${boy4.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN4 }
+  });
+});
+
+boy100.on("ready", () => {
+  console.log(`[BOT] ${boy5.user.username} Ready!`);
+  iboyDEV({
+    method: "POST",
+    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    headers: { authorization: process.env.KahTOKEN5 }
+  });
+});
+
 
 // DONE //
 // ======= [ Console LOG - END   ] ======== //
