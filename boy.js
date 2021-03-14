@@ -97,7 +97,6 @@ const boy72 = new Discord.Client();
 const boy73 = new Discord.Client();
 const boy74 = new Discord.Client();
 const boy75 = new Discord.Client();
-const boy75 = new Discord.Client();
 const boy76 = new Discord.Client();
 const boy77 = new Discord.Client();
 const boy78 = new Discord.Client();
