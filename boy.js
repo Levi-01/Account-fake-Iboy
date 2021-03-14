@@ -285,8 +285,8 @@ boy.on("message", async message => {
 });
 // ======= [ Reload JSON - END   ] ======== //
 
-//DEV ZANFANA
-// ======= [ dev ZANGANA    ] ======== //
+//DEV IBOY
+// ======= [ dev IBOY    ] ======== //
 boy.on("ready", () => {
   console.log(`[boy] : ئەکاونتی 1`);
   console.log(`Hi ${boy.user.tag} , This Code by : IBOY `);
@@ -989,6 +989,1613 @@ boy20.on("message", message => {
   }
 });
 
+/////////
+
+boy21.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "10") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+boy22.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "11") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy23.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "12") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy24.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "13") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy25.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "14") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy26.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "15") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy27.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "16") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy28.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "17") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy29.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+  //
+  let args = message.content.split(" ").slice(1);
+
+  //
+  if (command == config.groupnm + "18") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000)); //
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+//
+boy30.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1); //dav zangana
+
+  if (command == config.groupnm + "19") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy"); //devIboy
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy31.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return; //devzangana
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length); //devzangana
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "20") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy32.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "10") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+boy33.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "11") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy34.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "12") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy35.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "13") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy36.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "14") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy37.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "15") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy38.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "16") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy39.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "17") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy40.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+  //
+  let args = message.content.split(" ").slice(1);
+
+  //
+  if (command == config.groupnm + "18") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000)); //
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+//
+boy41.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1); //dav zangana
+
+  if (command == config.groupnm + "19") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy"); //devIboy
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy42.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return; //devzangana
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length); //devzangana
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "20") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy43.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "10") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+boy44.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "11") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy45.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "12") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy46.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "13") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy47.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "14") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy48.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "15") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy49.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "16") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy50.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "17") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy51.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+  //
+  let args = message.content.split(" ").slice(1);
+
+  //
+  if (command == config.groupnm + "18") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000)); //
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+//
+boy52.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1); //dav zangana
+
+  if (command == config.groupnm + "19") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy"); //devIboy
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy53.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return; //devzangana
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length); //devzangana
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "20") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy54.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "10") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+boy55.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "11") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy56.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "12") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy57.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "13") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy58.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "14") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy59.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "15") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy60.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "16") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy61.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "17") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy62.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+  //
+  let args = message.content.split(" ").slice(1);
+
+  //
+  if (command == config.groupnm + "18") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000)); //
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+//
+boy63.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1); //dav zangana
+
+  if (command == config.groupnm + "19") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy"); //devIboy
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy64.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return; //devzangana
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length); //devzangana
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "20") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy65.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "10") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+boy66.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "11") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy67.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "12") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy68.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "13") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy69.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "14") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy70.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "15") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy71.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "16") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy72.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "17") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy73.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+  //
+  let args = message.content.split(" ").slice(1);
+
+  //
+  if (command == config.groupnm + "18") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000)); //
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy74.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "10") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+boy75.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "11") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy76.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "12") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy77.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "13") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy78.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "14") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy79.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "15") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy80.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "16") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy81.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "17") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy82.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+  //
+  let args = message.content.split(" ").slice(1);
+
+  //
+  if (command == config.groupnm + "18") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000)); //
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+//
+boy83.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1); //dav zangana
+
+  if (command == config.groupnm + "19") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy"); //devIboy
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy84.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return; //devzangana
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length); //devzangana
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "20") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+//
+boy85.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1); //dav zangana
+
+  if (command == config.groupnm + "19") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy"); //devIboy
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy86.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return; //devzangana
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length); //devzangana
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "20") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy87.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "10") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+boy88.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "11") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy89.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "12") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy90.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "13") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy91.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "14") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy92.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "15") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy93.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "16") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy94.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "17") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy95.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+  //
+  let args = message.content.split(" ").slice(1);
+
+  //
+  if (command == config.groupnm + "18") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000)); //
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+//
+boy96.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1); //dav zangana
+
+  if (command == config.groupnm + "19") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy"); //devIboy
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy97.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return; //devzangana
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length); //devzangana
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "20") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy98.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "10") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+boy99.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "11") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
+
+boy100.on("message", message => {
+  if (message.author.bot) return;
+  if (!message.content.startsWith(config.prefix)) return;
+
+  let command = message.content.split(" ")[0];
+  command = command.slice(config.prefix.length);
+
+  let args = message.content.split(" ").slice(1);
+
+  if (command == config.groupnm + "12") {
+    if (!dinfo.owner.includes(message.author.id)) return;
+    let rank = message.guild
+      .member(message.author)
+      .roles.find("name", "Role.boy");
+    if (!rank) return message.channel.send(err).then(m => m.delete(5000));
+    message.channel.send(args.join("  "));
+    message.delete();
+  }
+});
 
 // ======= [ Say MODE - END   ] ======== //
 
